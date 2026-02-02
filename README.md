@@ -1,4 +1,4 @@
-# Claude Task Tracker
+# Claude Epic Tracker
 
 Markdown-based project backlog management for Claude Code.
 
