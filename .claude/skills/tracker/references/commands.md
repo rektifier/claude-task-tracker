@@ -45,9 +45,7 @@ Update item fields.
 Common updates:
 ```
 /tracker update EPIC-001 status active
-/tracker update FEAT-001 owner anna
 /tracker update US-001 status in-progress
-/tracker update US-001 assignee bob
 /tracker update BUG-001 severity high
 /tracker update BUG-001 status confirmed
 ```
@@ -76,6 +74,5 @@ Common updates:
 ```
 /tracker new bug "Login fails on Safari"
 /tracker update BUG-001 severity high
-/tracker update BUG-001 assignee dev-name
 /tracker update BUG-001 status in-progress
 ```

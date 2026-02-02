@@ -20,7 +20,6 @@ Manage project backlogs using markdown files. Work items are stored in a hierarc
 /tracker new bug "Title"
 
 /tracker update ID status VALUE
-/tracker update ID assignee NAME
 ```
 
 ## Execution

@@ -1,10 +1,8 @@
 # EPIC: {EPIC-ID} {Title}
 
-## Meta
+## Metadata
 - status: draft
 - created: {YYYY-MM-DD}
-- owner: {name}
-- wiki: {link}
 
 ## Description
 {System/initiative overview in 2-3 sentences}

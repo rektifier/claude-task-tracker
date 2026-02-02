@@ -62,7 +62,7 @@ BUG (separate track)
 |---------|-------------|
 | `/tracker update ID field value` | Update any field on an item |
 
-Common fields: `status`, `assignee`, `owner`, `severity`
+Common fields: `status`, `severity`
 
 ## Usage Examples
 
@@ -112,9 +112,6 @@ BUG-001 Login fails on Safari [new] (high)
 
 # Mark feature as active
 /tracker update FEAT-001 status active
-
-# Assign a bug
-/tracker update BUG-001 assignee alice
 ```
 
 ## Status Workflows

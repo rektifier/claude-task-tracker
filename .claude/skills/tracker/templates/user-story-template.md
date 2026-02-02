@@ -1,9 +1,8 @@
 # USER STORY: {US-ID} {Title}
 
-## Meta
+## Metadata
 - status: todo
 - feature: {FEAT-ID}
-- assignee: {name}
 - estimate: {hours/points}
 
 ## Story
@@ -11,10 +10,7 @@ As a {role}
 I want to {action}
 So that {benefit}
 
-## Tasks
-- [ ] {task description}
-
-## Acceptance
+## Acceptance Criteria
 - [ ] {verification step}
 
 ## Notes

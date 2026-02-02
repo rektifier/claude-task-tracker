@@ -1,10 +1,9 @@
 # BUG: {BUG-ID} {Title}
 
-## Meta
+## Metadata
 - status: new
 - severity: medium
 - found-in: {version/environment}
-- assignee: {name}
 - created: {YYYY-MM-DD}
 
 ## Summary

@@ -17,7 +17,7 @@ All project management is done through the `/tracker` skill:
 /tracker new feature EPIC-XXX "Title"   # Create feature under epic
 /tracker new story FEAT-XXX "Title"     # Create user story under feature
 /tracker new bug "Title"                # Create bug report
-/tracker update ID field value          # Update any field (status, owner, assignee, severity)
+/tracker update ID field value          # Update any field (status, severity)
 ```
 
 ## Architecture

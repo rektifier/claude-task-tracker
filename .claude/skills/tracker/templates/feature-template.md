@@ -1,10 +1,9 @@
 # FEATURE: {FEAT-ID} {Title}
 
-## Meta
+## Metadata
 - status: draft
 - epic: {EPIC-ID}
 - created: {YYYY-MM-DD}
-- owner: {name}
 
 ## User Story
 As a {role}
